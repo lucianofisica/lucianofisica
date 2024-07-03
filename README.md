@@ -19,7 +19,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=lucianofisica">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <img src="https://img.shields.io/github/followers/Emerosn?style=social">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <img src="https://img.shields.io/github/followers/lucianofisica?style=social">&nbsp;&nbsp;&nbsp;&nbsp;</a>
   </p>
 </a>
 
@@ -51,10 +51,10 @@
 </p>
 
 <p>
-<b aling= 'center'>
+<b>
   Personal Website:
 </b>
-<p align='center'>
+<p align='left'>
 <a href = "https://linktr.ee/lucianojrfis"><img width=50 height=50 src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png"/></a>
 </p>
   
