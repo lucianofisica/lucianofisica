@@ -52,9 +52,11 @@
 </p>
 
 <p>
-## Personal Website:
-<p align='center'>
-<a href = "https://linktr.ee/lucianojrfis"><img src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png"/></a>
+<b>
+  Personal Website:
+</b>
+<p align='left'>
+<a href = "https://linktr.ee/lucianojrfis"><img width=50 height=50 src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png"/></a>
 </p>
   
 </p>
