@@ -53,9 +53,8 @@
 
 <p>
 ## Personal Website:
-<p align='left'>
-  
-<a href = "[https://linktr.ee/lucianojrfis](https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png")/></a>
+<p align='center'>
+<a href = "https://linktr.ee/lucianojrfis"><img src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png"/></a>
 </p>
   
 </p>
