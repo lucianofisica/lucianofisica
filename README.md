@@ -35,7 +35,6 @@
   <img width=50 height=50 src="https://qph.cf2.quoracdn.net/main-qimg-ba415f78a6514c452bcce7e6910ce5ad"/>
   <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"/>
   <img width=5- height=50 src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
-  <img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880155-962e4063-8109-41b9-bf0f-b3c8ebd028a7.png" />
   <img width=50 height=50 src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png"/>
   <img width=50 height=50 src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
   <img width=50 height=50 src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-22.png" />
