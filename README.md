@@ -46,8 +46,8 @@
 
 <p align=center>
     <a href="https://github.com/Emerosn">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dennis" src="https://github-readme-streak-stats.herokuapp.com/?user=Emerosn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/a>
-        <a href="https://github.com/lucianofisica"><img alt="Dennis Top Languages" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerosn&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dennis" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianofisica&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/a>
+        <a href="https://github.com/lucianofisica"><img alt="Dennis Top Languages" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
     </a>
 </p>
 
