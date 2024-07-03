@@ -38,7 +38,6 @@
   <img width=40 height=50 src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
   <img width=50 height=50 src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png"/>
   <img width=50 height=50 src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
-  <img width=50 height=50 src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-22.png" />
 
 </div>
 
