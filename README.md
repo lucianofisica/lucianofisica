@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>  
-   I'm Ph.D. Student in Physics and BSc Student in Information Systems.
+   I'm PhD Student in Physics and BSc Student in Software Engineering.
   </b>
 </p>
 
