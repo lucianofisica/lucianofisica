@@ -32,7 +32,7 @@
   <img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880016-f3a38d10-a687-4da4-b554-96e2aca453d3.png" />
   <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
   <img width=50 height=50 src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-  <img width=50 height=50 src="[https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png](https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-cloud-icon-vector-PNG.png)"/>
+  <img width=50 height=50 src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-cloud-icon-vector-PNG.png"/>
   <img width=50 height=50 src="https://qph.cf2.quoracdn.net/main-qimg-ba415f78a6514c452bcce7e6910ce5ad"/>
   <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"/>
   <img width=40 height=50 src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
