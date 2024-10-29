@@ -28,7 +28,7 @@
 <div align="center">
 
   <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TUX_G2.svg/163px-TUX_G2.svg.png"/>
-  <img width=50 height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FDFHJNaj9LVuklfRWwlMBCfRfVtwmAsefg&s"/>
+  <img width=50 height=50 src="https://habrastorage.org/getpro/habr/upload_files/cbc/ea3/b44/cbcea3b440b65531278472d2050c0dce.jpg"/>
   <img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880016-f3a38d10-a687-4da4-b554-96e2aca453d3.png" />
   <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
   <img width=50 height=50 src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
