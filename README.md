@@ -11,7 +11,7 @@
 </p>
 
 - Scientific Programming and Data Analysis;
-- Linux, Fortran, Shell script, C, C++, Python, R, Java, Google Cloud, New Relic and Docker.
+- Linux, Fortran, Shell script, C, Python, R, Google Cloud, New Relic and Docker.
 
 <p>
   Views and Followers
@@ -31,11 +31,9 @@
   <img width=50 height=50 src="https://habrastorage.org/getpro/habr/upload_files/cbc/ea3/b44/cbcea3b440b65531278472d2050c0dce.jpg"/>
   <img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880016-f3a38d10-a687-4da4-b554-96e2aca453d3.png" />
   <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
-  <img width=50 height=50 src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-  <img width=50 height=50 src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-cloud-icon-vector-PNG.png"/>
   <img width=50 height=50 src="https://qph.cf2.quoracdn.net/main-qimg-ba415f78a6514c452bcce7e6910ce5ad"/>
   <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"/>
-  <img width=40 height=50 src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
+    <img width=50 height=50 src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-cloud-icon-vector-PNG.png"/>
   <img width=50 height=50 src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png"/>
   <img width=50 height=50 src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 
