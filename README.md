@@ -19,7 +19,7 @@
 
 </td><td valign="top" width="33%">
 
-<img src="![lucianofisica's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&layout=compact)" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&layout=compact" style="width: 100%" />
 
 </td></tr></table>  
   
