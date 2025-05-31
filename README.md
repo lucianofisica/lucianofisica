@@ -15,10 +15,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianofisica&theme=dark&hide_border=false" align="center" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&layout=compact" style="width: 100%" />
 
 </td></tr></table>  
