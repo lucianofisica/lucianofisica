@@ -9,13 +9,13 @@
 - Scientific Programming and Data Science and Engineering.
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&hide_border=true&layout=compact" align="center" style="width: 100%" />
+<img src="!https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&layout=compact" align="center" style="width: 100%" />
 
 </td></tr></table>  
   
