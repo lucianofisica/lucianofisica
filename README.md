@@ -11,19 +11,16 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=lucianofisica&&style=flat-square) 
 
 ## Github Stats:
-<table><tr><td valign="top" width="50%">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" 
-        align="center" 
-        style="width: 100%" 
-    />
-</td><td valign="top" width="50%">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" 
-        align="center"
-        style="width: 100%" 
-    />
-</td></tr></table>
+<table>
+    <tr>
+        <td valign="center" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" style="width: 100%" />
+        </td>
+        <td valign="center" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" style="width: 100%" />
+        </td>
+    </tr>
+</table>
 
 ## Personal Website:
 <p align='center'>
