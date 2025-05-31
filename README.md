@@ -20,5 +20,5 @@
 </td></tr></table>  
   
 <p align='center'>
-<a href = "https://linktr.ee/lucianojrfis"><img width=50 height=30 src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png"/></a>
+<a href = "https://linktr.ee/lucianojrfis"><img width=50 height=50 src="[https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinktree-logo%2F&psig=AOvVaw2NN5W8A6AClolsnLO4cATQ&ust=1748813146827000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjUyOrSzo0DFQAAAAAdAAAAABAX)"/></a>
 </p>
