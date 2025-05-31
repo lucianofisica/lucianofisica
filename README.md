@@ -23,5 +23,5 @@
 </p> 
 
 <p align='center'>
-   <a href="https://linktr.ee/lucianojrfis"><img width=100 height=100 src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" style="border: 3px white;"/></a>
+   <a href="https://linktr.ee/lucianojrfis"><img width=100 height=100 src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" style="border: 10px solid white;"/></a>
 </p>
