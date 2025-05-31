@@ -26,8 +26,8 @@
 <p align='center'>
     <a href="https://linktr.ee/lucianojrfis">
         <img 
-            width="200" 
-            height="200" 
+            width="150" 
+            height="150" 
             src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg"
         />
     </a>
