@@ -2,7 +2,7 @@
 
 <p align="center">
   <b> 
-    I'm PhD Candidate in Physics and BSc Student in Software Engineering. 
+     I'm PhD Candidate in Physics and BSc Student in Software Engineering. 
   </b>
 </p>
 
@@ -12,19 +12,26 @@
 
 ## Github Stats:
 <table><tr><td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" align="center" style="width: 100%" />
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" 
+        align="center" 
+        style="width: 100%" 
+    />
 </td><td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" style="width: 100%" />
-</td></tr></table>  
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" 
+        align="center"
+        style="width: 100%" 
+    />
+</td></tr></table>
 
 ## Personal Website:
 <p align='center'>
-   <a href="https://linktr.ee/lucianojrfis">
-      <img 
-         width="150" 
-         height="150" 
-         src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" 
-         style="border: 3px solid red; padding: 5px;"
-      />
-   </a>
+    <a href="https://linktr.ee/lucianojrfis">
+        <img 
+            width="150" 
+            height="150" 
+            src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg"
+        />
+    </a>
 </p>
