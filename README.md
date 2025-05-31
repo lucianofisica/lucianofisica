@@ -15,7 +15,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" style="width: 100%" />
 </td></tr></table>  
 
-## Personal Website
+## Personal Website:
 <p align='center'>
    <a href = "https://linktr.ee/lucianojrfis"><img width=50 height=50 src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png"/></a>
 </p>
