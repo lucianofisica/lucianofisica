@@ -19,9 +19,5 @@
 
 ## Personal Website:
 <p align='center'>
-   <a href = "https://linktr.ee/lucianojrfis"><img width=100 height=100 src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg"/></a>
-</p> 
-
-<p align='center'>
-   <a href="https://linktr.ee/lucianojrfis"><img width=100 height=100 src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" style="border: 10px solid #FF0000;"/></a>
+   <a href="https://linktr.ee/lucianojrfis"><img width=150 height=150 src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" style="border: 10px solid #FF0000;"/></a>
 </p>
