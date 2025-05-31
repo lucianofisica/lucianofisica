@@ -11,15 +11,13 @@
 ## Github Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&layout=compact" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&count_private=true" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
 </td></tr></table>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=lucianofisica&&style=flat-square)  
   
 <p align='center'>
 <a href = "https://linktr.ee/lucianojrfis"><img width=50 height=30 src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png"/></a>
