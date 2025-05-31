@@ -19,6 +19,9 @@
 
 </td></tr></table>  
 
+
+![lucianofisica's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofisica&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=lucianofisica&&style=flat-square)  
   
 <p align='center'>
